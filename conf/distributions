@@ -1,0 +1,7 @@
+Origin: ronny-rentner
+Label: ronny-rentner
+Codename: forky
+Architectures: amd64
+Components: main
+Description: Debian packages built from ronny-rentner's forks
+SignWith: 8AE973487FFAE56E

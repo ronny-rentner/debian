@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: ronny-rentner
+Label: ronny-rentner
+Codename: forky
+Date: Mon, 19 Oct 2026 21:59:46 UTC
+Architectures: amd64
+Components: main
+Description: Debian packages built from ronny-rentner's forks
+MD5Sum:
+ 6fae3cfee6d480d41e6ffb842c615a82 2738 main/binary-amd64/Packages
+ d5fe903b6375e3c7f315d10f63d477da 1239 main/binary-amd64/Packages.gz
+ 7339443df2fed52785b072c2e04777bf 141 main/binary-amd64/Release
+SHA1:
+ 474ccd2ae48d84b15afda4b8ab1d32c0488ccaaa 2738 main/binary-amd64/Packages
+ 7b379a378936c03b84ecf48d3772a0096769596a 1239 main/binary-amd64/Packages.gz
+ 6156ee2a4d05a9917f12e2cd644a62ec57e22ea9 141 main/binary-amd64/Release
+SHA256:
+ e247fe33341fa0923c87e4ec98684c5d8044b69481467edf24995ef124e28a78 2738 main/binary-amd64/Packages
+ 3c233c95704bda33944898d3da4a3518ebc645e04c73cebadd6f9371ee1484b3 1239 main/binary-amd64/Packages.gz
+ 35cd2714f1a2c012ef0c09b04ec50256551b1a1decef1fbce545ca96237782b5 141 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEUJ8gB7CARmgBwSusiulzSH/65W4FAmrWktMACgkQiulzSH/6
+5W7axRAAqy7KcHSS4NGeQC+7bgeauCVtAsUu0e0E0UM4ojP/BNo5xhKLNb0RuM1d
+LLtBVaHt47g5vSWkMDcvohJSzvm1o+Mb6TpDwHZ3ohfKkPyWd6qAN6I+dEN2lKol
++jsjx9GLyQYkI2z6F0+1U5AEjoj/TUJHt19NI383Z3gRCfgfytRvj4BJ4+u1Yelx
+aHVO5PeBIDzLS0Y2zMD72F6Kphs+2yAkVwQVrxLRiNPHHSuW7tp21tHBQNlcJ7N7
+oc4RwsVyennscxJc/nM9zHuK/wii/Qm02hwZ8V4OjRaDtCZGsF83z48Q9m6tL8YL
+SkZd5dN5f0OG2jmryib1oOXNNCEEl5Y1U0Bnfq3PeSvMbCHkWlCuo6vNKsrJT6M/
+Tjzn2UlBaCtBKC+1uxlZlr/hGIYKofo9JMnldGRqa2AWcDZL6ebrumqHyyaA/726
+DzYnxjxXlxEIpUB/dedQFdE9XjzIVw+4t2Xa05cRT//uytLaxtOPlpc45ha44/GO
+HKjktLVU7XsG45LiIkBBu8RlhrMLnO0ENJX6rbxKhZDUUBdPyUq/gGAp57GXF5OG
+58sV0WETSgfwmvEg77zTzDGLYkN81iRogFUKqsRL5iAlHzM5M4AAcXWsnuqz2Mjp
+AchHA8PYZprxBmKKRonKG5zeNcTUlY2etMotmBFLTGSqcBnC5m8=
+=TJL7
+-----END PGP SIGNATURE-----
