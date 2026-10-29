@@ -19,50 +19,6 @@ Description: Fast, feature-rich, and cross-platform terminal emulator
  available, they all force you to choose between speed, features, or native
  UIs. Ghostty provides all three.
 
-Package: zig0.16
-Version: 0.16.0~ppa1-0
-Architecture: amd64
-Maintainer: Mike Kasberg <kasberg.mike@gmail.com>
-Installed-Size: 29515
-Depends: libc6 (>= 2.38), libclang-cpp21 (>= 1:21.1.8), libllvm21 (>= 1:21.1.0), libstdc++6 (>= 12), libzstd1 (>= 1.5.5), zlib1g (>= 1:1.2.2), zig0.16-dev (= 0.16.0~ppa1-0)
-Suggests: zig-default
-Multi-Arch: foreign
-Homepage: https://ziglang.org/
-Priority: optional
-Section: devel
-Filename: pool/main/z/zig0.16/zig0.16_0.16.0~ppa1-0_amd64.deb
-Size: 6560004
-SHA256: 0b8dc35054b41b9c1a6834b7e7c6df20af379c9d44deaf276e0e85f3cfd9d093
-SHA1: 7b494b9d82b153ee552f1607b71268a866f24d55
-MD5sum: 5fa1bab20174abd2d5c15cdacadf2a80
-Description: General-purpose imperative language
- Zig is a general-purpose programming language and toolchain
- for maintaining robust, optimal and reusable software.
- .
- This package contains the binary for Zig.
-
-Package: zig0.16-dev
-Source: zig0.16
-Version: 0.16.0~ppa1-0
-Architecture: all
-Maintainer: Mike Kasberg <kasberg.mike@gmail.com>
-Installed-Size: 179217
-Depends: libclang-common-21-dev
-Multi-Arch: foreign
-Homepage: https://ziglang.org/
-Priority: optional
-Section: devel
-Filename: pool/main/z/zig0.16/zig0.16-dev_0.16.0~ppa1-0_all.deb
-Size: 19885204
-SHA256: bde1a23f55587e355ca7a70b85219052c02cceeaeaed08a3a8e70af568104322
-SHA1: 860d9aa6522b49d6a6e1fc7fd38b476c6d1179ed
-MD5sum: d0d2269e178a8cf5ef22a8843ca0123b
-Description: General-purpose imperative language (stdlib)
- Zig is a general-purpose programming language and toolchain
- for maintaining robust, optimal and reusable software.
- .
- This package contains the Zig standard library.
-
 Package: zig0.17
 Version: 0.17.0-2
 Architecture: amd64

@@ -6,7 +6,6 @@ Packages for Debian `forky`, served by GitHub Pages at
 ## Packages
 
 - `ghostty`: [Ghostty](https://github.com/ghostty-org/ghostty) 1.4.0, with [Debian packaging](https://github.com/ronny-rentner/ghostty/tree/bf478abcd6af02ef5b593e7602db5e5f185fc171/debian)
-- `zig0.16`, `zig0.16-dev`: [Zig](https://codeberg.org/ziglang/zig) 0.16.0, with [Debian packaging](https://github.com/ronny-rentner/zig/tree/114d0b992b31468d48197d34a7c138f99184a247/debian)
 - `zig0.17`, `zig0.17-dev`: [Zig](https://codeberg.org/ziglang/zig) 0.17.0, with [Debian packaging](https://github.com/ronny-rentner/zig/tree/9a61034f0fcb51ebda6791c3701184090a5f3922/debian)
 
 ## Installing
