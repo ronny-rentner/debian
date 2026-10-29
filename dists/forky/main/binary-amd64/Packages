@@ -1,18 +1,18 @@
 Package: ghostty
-Version: 1.4.0-1
+Version: 1.4.0-2
 Architecture: amd64
-Maintainer: Mike Kasberg <kasberg.mike@gmail.com>
+Maintainer: Ronny Rentner <debian@ronny-rentner.de>
 Installed-Size: 35241
 Depends: libadwaita-1-0 (>= 1.5~beta), libc6 (>= 2.43), libegl1, libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.9.1), libglib2.0-0t64 (>= 2.76.0), libgtk-4-1 (>= 4.21.5), libgtk4-layer-shell0 (>= 1.0.2), libharfbuzz0b (>= 0.9.42), libhwy1t64 (>= 1.0.0), libonig5 (>= 6.9.5), libwayland-client0 (>= 1.9.91), libx11-6
 Provides: x-terminal-emulator
 Homepage: https://ghostty.org/
 Priority: optional
 Section: utils
-Filename: pool/main/g/ghostty/ghostty_1.4.0-1_amd64.deb
-Size: 18179636
-SHA256: 1b479bdf99bed632917575c38c0388a36f52c7d9a1d7be7f1423d0cf5783774b
-SHA1: a85053d97281f2ae91bd44dc37c505bd6c5bf2d4
-MD5sum: 56a4e6f3e6e86864d7ab63eb5c8f9072
+Filename: pool/main/g/ghostty/ghostty_1.4.0-2_amd64.deb
+Size: 18179812
+SHA256: 0fdd70d75b9b8daccc098f21136bb69c79c6f4f6f216aae9a3c65dfe19481ef8
+SHA1: 4acae9d075dbb4d6c5adc085eb21da1cb68dd7ef
+MD5sum: 70886b5f17a859ba58b02b519dce1438
 Description: Fast, feature-rich, and cross-platform terminal emulator
  Ghostty is a terminal emulator that differentiates itself by being fast,
  feature-rich, and native. While there are many excellent terminal emulators
@@ -64,21 +64,21 @@ Description: General-purpose imperative language (stdlib)
  This package contains the Zig standard library.
 
 Package: zig0.17
-Version: 0.17.0-1
+Version: 0.17.0-2
 Architecture: amd64
-Maintainer: Mike Kasberg <kasberg.mike@gmail.com>
+Maintainer: Ronny Rentner <debian@ronny-rentner.de>
 Installed-Size: 29694
-Depends: libc6 (>= 2.38), libclang-cpp22 (>= 1:22.1.8), libllvm22, libstdc++6 (>= 12), libzstd1 (>= 1.5.5), zlib1g (>= 1:1.2.2), zig0.17-dev (= 0.17.0-1)
+Depends: libc6 (>= 2.38), libclang-cpp22 (>= 1:22.1.8), libllvm22, libstdc++6 (>= 12), libzstd1 (>= 1.5.5), zlib1g (>= 1:1.2.2), zig0.17-dev (= 0.17.0-2)
 Suggests: zig-default
 Multi-Arch: foreign
 Homepage: https://ziglang.org/
 Priority: optional
 Section: devel
-Filename: pool/main/z/zig0.17/zig0.17_0.17.0-1_amd64.deb
-Size: 6489344
-SHA256: 63a9ca40ffb945a3728f7d4098c78853178576a54fb6e758074e2dd7b28ec968
-SHA1: a99a85093b7fc4ccf37b2af3922fda1fe1f753db
-MD5sum: 9a7deb7bdca61d12c5d29113e0222a6a
+Filename: pool/main/z/zig0.17/zig0.17_0.17.0-2_amd64.deb
+Size: 6492056
+SHA256: 2c9ce28dbf8f0a3bb64e586919b32aab0c4060e9626732c5ff48408d94aa34f5
+SHA1: 7863f0e659c992db820d99fdfba00629b58b59de
+MD5sum: d8aba93e8a557e76b4dfe15cce5f594f
 Description: General-purpose imperative language
  Zig is a general-purpose programming language and toolchain
  for maintaining robust, optimal and reusable software.
@@ -87,20 +87,20 @@ Description: General-purpose imperative language
 
 Package: zig0.17-dev
 Source: zig0.17
-Version: 0.17.0-1
+Version: 0.17.0-2
 Architecture: all
-Maintainer: Mike Kasberg <kasberg.mike@gmail.com>
+Maintainer: Ronny Rentner <debian@ronny-rentner.de>
 Installed-Size: 183430
 Depends: libclang-common-22-dev
 Multi-Arch: foreign
 Homepage: https://ziglang.org/
 Priority: optional
 Section: devel
-Filename: pool/main/z/zig0.17/zig0.17-dev_0.17.0-1_all.deb
-Size: 20366388
-SHA256: e74e2f27c88a8c0687477b2f9339e942bcf5559c4241ede985a31bf6ae67f1cc
-SHA1: e414db72bd732e0aaeb917bfaa5e618a498feac0
-MD5sum: 79795f9fe00c40819e08bae8db87c0fc
+Filename: pool/main/z/zig0.17/zig0.17-dev_0.17.0-2_all.deb
+Size: 20366300
+SHA256: 77e89d14a6e092972c1a15faa7d1047c63a7ef7a1f2a0f0c4fc7569e85bac439
+SHA1: 51c39c805c48a4f797b2ac1a64d93f85ab0c8b14
+MD5sum: 93c166d42b9a470860d61b7cd5d07074
 Description: General-purpose imperative language (stdlib)
  Zig is a general-purpose programming language and toolchain
  for maintaining robust, optimal and reusable software.

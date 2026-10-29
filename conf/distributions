@@ -3,5 +3,5 @@ Label: ronny-rentner
 Codename: forky
 Architectures: amd64
 Components: main
-Description: Debian packages built from ronny-rentner's forks
+Description: Debian packages for forky maintained by Ronny Rentner
 SignWith: 8AE973487FFAE56E
