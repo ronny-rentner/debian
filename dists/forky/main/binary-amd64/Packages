@@ -63,3 +63,47 @@ Description: General-purpose imperative language (stdlib)
  .
  This package contains the Zig standard library.
 
+Package: zig0.17
+Version: 0.17.0-1
+Architecture: amd64
+Maintainer: Mike Kasberg <kasberg.mike@gmail.com>
+Installed-Size: 29694
+Depends: libc6 (>= 2.38), libclang-cpp22 (>= 1:22.1.8), libllvm22, libstdc++6 (>= 12), libzstd1 (>= 1.5.5), zlib1g (>= 1:1.2.2), zig0.17-dev (= 0.17.0-1)
+Suggests: zig-default
+Multi-Arch: foreign
+Homepage: https://ziglang.org/
+Priority: optional
+Section: devel
+Filename: pool/main/z/zig0.17/zig0.17_0.17.0-1_amd64.deb
+Size: 6489344
+SHA256: 63a9ca40ffb945a3728f7d4098c78853178576a54fb6e758074e2dd7b28ec968
+SHA1: a99a85093b7fc4ccf37b2af3922fda1fe1f753db
+MD5sum: 9a7deb7bdca61d12c5d29113e0222a6a
+Description: General-purpose imperative language
+ Zig is a general-purpose programming language and toolchain
+ for maintaining robust, optimal and reusable software.
+ .
+ This package contains the binary for Zig.
+
+Package: zig0.17-dev
+Source: zig0.17
+Version: 0.17.0-1
+Architecture: all
+Maintainer: Mike Kasberg <kasberg.mike@gmail.com>
+Installed-Size: 183430
+Depends: libclang-common-22-dev
+Multi-Arch: foreign
+Homepage: https://ziglang.org/
+Priority: optional
+Section: devel
+Filename: pool/main/z/zig0.17/zig0.17-dev_0.17.0-1_all.deb
+Size: 20366388
+SHA256: e74e2f27c88a8c0687477b2f9339e942bcf5559c4241ede985a31bf6ae67f1cc
+SHA1: e414db72bd732e0aaeb917bfaa5e618a498feac0
+MD5sum: 79795f9fe00c40819e08bae8db87c0fc
+Description: General-purpose imperative language (stdlib)
+ Zig is a general-purpose programming language and toolchain
+ for maintaining robust, optimal and reusable software.
+ .
+ This package contains the Zig standard library.
+

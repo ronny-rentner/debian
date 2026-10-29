@@ -7,6 +7,7 @@ Packages built from ronny-rentner's forks for Debian `forky`, served by GitHub P
 
 - `ghostty`: Ghostty 1.4.0 with Debian packaging, from [ronny-rentner/ghostty](https://github.com/ronny-rentner/ghostty), branch `debian`
 - `zig0.16`, `zig0.16-dev`: Zig 0.16.0, from [ronny-rentner/zig](https://github.com/ronny-rentner/zig), branch `debian`
+- `zig0.17`, `zig0.17-dev`: Zig 0.17.0, from [ronny-rentner/zig](https://github.com/ronny-rentner/zig), branch `debian`
 
 ## Installing
 
