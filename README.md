@@ -7,7 +7,7 @@ Packages for Debian `forky`, served by GitHub Pages at
 
 - `ghostty`: [Ghostty](https://github.com/ghostty-org/ghostty) 1.4.0, with [Debian packaging](https://github.com/ronny-rentner/ghostty/tree/bf478abcd6af02ef5b593e7602db5e5f185fc171/debian)
 - `zig0.17`, `zig0.17-dev`: [Zig](https://codeberg.org/ziglang/zig) 0.17.0, with [Debian packaging](https://github.com/ronny-rentner/zig/tree/9a61034f0fcb51ebda6791c3701184090a5f3922/debian)
-- `parakeet-cli`, `parakeet-server`: [parakeet.cpp](https://github.com/mudler/parakeet.cpp) 0.6.1 from the [ronny-rentner fork](https://github.com/ronny-rentner/parakeet.cpp) with phrase boosting and model handling, with [Debian packaging](https://github.com/ronny-rentner/parakeet.cpp/tree/e335e5664d4a67c40da571b4c9051b95b828c209/debian)
+- `parakeet-cli`, `parakeet-server`: [parakeet.cpp](https://github.com/mudler/parakeet.cpp) 0.6.1 from the [ronny-rentner fork](https://github.com/ronny-rentner/parakeet.cpp) with phrase boosting and model handling, with [Debian packaging](https://github.com/ronny-rentner/parakeet.cpp/tree/75ecba150475122aa24e554685e4f21d50d60ef4/debian)
 
 ## Installing
 

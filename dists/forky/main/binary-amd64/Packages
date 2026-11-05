@@ -21,7 +21,7 @@ Description: Fast, feature-rich, and cross-platform terminal emulator
 
 Package: parakeet-cli
 Source: parakeet-cpp
-Version: 0.6.1+git20261105.7e6f040-1
+Version: 0.6.1+git20261105.7e6f040-2
 Architecture: amd64
 Maintainer: Ronny Rentner <debian@ronny-rentner.de>
 Installed-Size: 59554
@@ -29,31 +29,31 @@ Depends: libc6 (>= 2.43), libgcc-s1 (>= 3.0), libgomp1 (>= 6), libstdc++6 (>= 14
 Homepage: https://github.com/mudler/parakeet.cpp
 Priority: optional
 Section: sound
-Filename: pool/main/p/parakeet-cpp/parakeet-cli_0.6.1+git20261105.7e6f040-1_amd64.deb
-Size: 6366804
-SHA256: c062eb94f7813ec42e246187680e106f9df22aecf2289642554f3e2f9b7c3111
-SHA1: 5ff83804021fe4717d491df8eeabd89ace114175
-MD5sum: bbef94deac8e281bf50c0b18433a90f6
+Filename: pool/main/p/parakeet-cpp/parakeet-cli_0.6.1+git20261105.7e6f040-2_amd64.deb
+Size: 6365600
+SHA256: dd2b9f8c1d8c8ac91699550b71295a2fe2f0bed4c62e12451424231a598c7fa7
+SHA1: ce3eaf4715c141b57531e57b783cea65660228c9
+MD5sum: b03dc295b2748d9d7c92e1177b0fe768
 Description: NVIDIA Parakeet speech recognition command line tool
  parakeet-cli transcribes WAV files with NVIDIA NeMo Parakeet models
  converted to GGUF, running on the CPU or a Vulkan GPU through ggml.
 
 Package: parakeet-server
 Source: parakeet-cpp
-Version: 0.6.1+git20261105.7e6f040-1
+Version: 0.6.1+git20261105.7e6f040-2
 Architecture: amd64
 Maintainer: Ronny Rentner <debian@ronny-rentner.de>
-Installed-Size: 58971
+Installed-Size: 58972
 Depends: libc6 (>= 2.43), libgcc-s1 (>= 3.0), libgomp1 (>= 6), libstdc++6 (>= 14), libvulkan1 (>= 1.2.131.2)
 Recommends: curl
 Homepage: https://github.com/mudler/parakeet.cpp
 Priority: optional
 Section: sound
-Filename: pool/main/p/parakeet-cpp/parakeet-server_0.6.1+git20261105.7e6f040-1_amd64.deb
-Size: 6141660
-SHA256: f3ebef893c58294fb441fad270775f3223a260248b1749ef8ff1f918d5f0582e
-SHA1: 0cb7446a66e598f65a095ea0ffb28d21ae0fe4d4
-MD5sum: 5bfadf2c580ac20b216efbb9812d4e23
+Filename: pool/main/p/parakeet-cpp/parakeet-server_0.6.1+git20261105.7e6f040-2_amd64.deb
+Size: 6142452
+SHA256: a263a0a0f4069850968277876f8293a2d0f4a9bd292ac417719cf496f65709bb
+SHA1: 1d255ac4c05c58aaca10777d877e5f46e5370788
+MD5sum: f767a0cd11942285aa4f0bf9f0ee5f16
 Description: NVIDIA Parakeet speech recognition HTTP server
  parakeet-server answers POST /v1/audio/transcriptions like the OpenAI
  API, with phrase boosting, model selection per request and unloading of
