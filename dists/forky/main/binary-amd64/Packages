@@ -19,6 +19,46 @@ Description: Fast, feature-rich, and cross-platform terminal emulator
  available, they all force you to choose between speed, features, or native
  UIs. Ghostty provides all three.
 
+Package: parakeet-cli
+Source: parakeet-cpp
+Version: 0.6.1+git20261105.7e6f040-1
+Architecture: amd64
+Maintainer: Ronny Rentner <debian@ronny-rentner.de>
+Installed-Size: 59554
+Depends: libc6 (>= 2.43), libgcc-s1 (>= 3.0), libgomp1 (>= 6), libstdc++6 (>= 14), libvulkan1 (>= 1.2.131.2)
+Homepage: https://github.com/mudler/parakeet.cpp
+Priority: optional
+Section: sound
+Filename: pool/main/p/parakeet-cpp/parakeet-cli_0.6.1+git20261105.7e6f040-1_amd64.deb
+Size: 6366804
+SHA256: c062eb94f7813ec42e246187680e106f9df22aecf2289642554f3e2f9b7c3111
+SHA1: 5ff83804021fe4717d491df8eeabd89ace114175
+MD5sum: bbef94deac8e281bf50c0b18433a90f6
+Description: NVIDIA Parakeet speech recognition command line tool
+ parakeet-cli transcribes WAV files with NVIDIA NeMo Parakeet models
+ converted to GGUF, running on the CPU or a Vulkan GPU through ggml.
+
+Package: parakeet-server
+Source: parakeet-cpp
+Version: 0.6.1+git20261105.7e6f040-1
+Architecture: amd64
+Maintainer: Ronny Rentner <debian@ronny-rentner.de>
+Installed-Size: 58971
+Depends: libc6 (>= 2.43), libgcc-s1 (>= 3.0), libgomp1 (>= 6), libstdc++6 (>= 14), libvulkan1 (>= 1.2.131.2)
+Recommends: curl
+Homepage: https://github.com/mudler/parakeet.cpp
+Priority: optional
+Section: sound
+Filename: pool/main/p/parakeet-cpp/parakeet-server_0.6.1+git20261105.7e6f040-1_amd64.deb
+Size: 6141660
+SHA256: f3ebef893c58294fb441fad270775f3223a260248b1749ef8ff1f918d5f0582e
+SHA1: 0cb7446a66e598f65a095ea0ffb28d21ae0fe4d4
+MD5sum: 5bfadf2c580ac20b216efbb9812d4e23
+Description: NVIDIA Parakeet speech recognition HTTP server
+ parakeet-server answers POST /v1/audio/transcriptions like the OpenAI
+ API, with phrase boosting, model selection per request and unloading of
+ idle models.
+
 Package: zig0.17
 Version: 0.17.0-2
 Architecture: amd64

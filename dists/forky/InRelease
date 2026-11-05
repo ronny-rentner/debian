@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: ronny-rentner
 Label: ronny-rentner
 Codename: forky
-Date: Thu, 29 Oct 2026 16:32:08 UTC
+Date: Thu, 05 Nov 2026 14:51:03 UTC
 Architectures: amd64
 Components: main
 Description: Debian packages for forky maintained by Ronny Rentner
 MD5Sum:
- 271c825defb5cfdf0a4f3c406dcad19e 2666 main/binary-amd64/Packages
- f42bd37a8b9ee86972be6d5383562bf6 1221 main/binary-amd64/Packages.gz
+ 3aa0bc4d3c1d2c81189f2334abaa131b 4367 main/binary-amd64/Packages
+ a459b156150c52da183d5f21fe1f3980 1794 main/binary-amd64/Packages.gz
  7339443df2fed52785b072c2e04777bf 141 main/binary-amd64/Release
 SHA1:
- dc0b2e98cb2e73ed1856d9110c81e9fa9bba11a1 2666 main/binary-amd64/Packages
- db80e758ec51a58dd0b174d08a382308cc732b53 1221 main/binary-amd64/Packages.gz
+ 986feb3388b2b28a4e125ebb94f1a49719be9a23 4367 main/binary-amd64/Packages
+ c7d07dd683f650cfdc8e205d5b95f328201333e0 1794 main/binary-amd64/Packages.gz
  6156ee2a4d05a9917f12e2cd644a62ec57e22ea9 141 main/binary-amd64/Release
 SHA256:
- e6707943448016f0a236738de01ab3df144b8e41d02d68644ea942725ba9687f 2666 main/binary-amd64/Packages
- 0254efcccfdc8c0c5e7078b67007fa3b75f0cccc6094ee9dd8bb003ed38e037c 1221 main/binary-amd64/Packages.gz
+ a1b4834a67d3c8bc1572bc34e04ecb964b83d6f6c503759648f9dd4ffcd92e94 4367 main/binary-amd64/Packages
+ ac05836b27197ee18346df1b5b15e8ba0a2a4620eab772f489d9eec1c9776613 1794 main/binary-amd64/Packages.gz
  35cd2714f1a2c012ef0c09b04ec50256551b1a1decef1fbce545ca96237782b5 141 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEUJ8gB7CARmgBwSusiulzSH/65W4FAmrjdQgACgkQiulzSH/6
-5W5/Vg/+Ih8wh6aPoQifWzn90O2v40+44q7PaoyHQOyw2r6MPrg9VphhygyZnr8W
-i+d7SlkdHuqf4PiONj3YATLWZFhaVTJ+L9jwqdHHOoVAc8ePGc8+hV6V4OUF/RsU
-+AoZK2Tqvaj/zDJXT72oq4m0S0qDYvzClqSHC0uE2nyhDfoTCI6zUge8eCIjhGAL
-0kzLkiqDFAqjrlS/55ICHxSeDJ6veGcGzjSLhoaYGygB3TvMiwGiDLSRGqnOD5WB
-iELufkpaW5iVK+zci4fQvmF8ZWspPiNcafBll/7MHHJWSvsN4Id8yreyC6dKYzYM
-+aGIovMtqAMEhNFllREGsuEXedI18336X0mQruqgxmTroNbojknE3DSxtr7JXY46
-X2u1BKrCrjs53eeReG+9vZd3GIJEVU46mZP89N8wE3pGLSJr9We1HUNv4uR5keOi
-wcP1YtDcIyTfwgC5rT+95Bl6vpLGw15fdmY5GZWlXkcAZIhlmMnxK/JC5a5P3Bbr
-6BeZceSlT+oX0xlhRhn4mAgEfeMCvROc3M6KSq7B6NFCvsV5o9tIQdu/54z/HfMH
-LzWcmoohQRz8aS8NFDn6RjKUVwuY6OLzSONoP+GZHiFo0BgSByP3avocBhtMSuhx
-2pSfvtSRaUdBchjRIZLOmpAfW9l1rmczzcC6v806BLNk4m+Sahs=
-=B7/P
+iQIzBAEBCgAdFiEEUJ8gB7CARmgBwSusiulzSH/65W4FAmrsl9cACgkQiulzSH/6
+5W4CQQ/+NxDHGzhd2ULJAtZfvGrS+MQy7saG9QUaoQiYg2W4dNagm7A7JYXVYQJW
+v+jLUSNjp5pGDF9C9JoeN6trvuxRlGJBtuaYGTS99sVsdXudxAN5u8dciMTB6HAc
+ScXkaRml59LgwACZNhU7HvM6ZAeBYDtghFo5by8yYrP4TgMu6xg17Ts7zjyNg3j4
+Q5kx6hQkiHRVM1duZPm+07V3ICgY3MRdYQ57Tar/ees/6+IE1dZKJteLyct+al2H
+l48SPjeDl39q2ua8U+GjXoPde2DWnKkm2egT1KGsppAMGgulmTRrxOFEwMGJTqpQ
+dsOTxfEOM939tweGKANJZDIsT3QTH/Zw/2WD1iUk4ylNnwoJuU4an83uBKuGble5
+U31oxB2O05Ale7FI/7PMspCshp9pf2pT7r+owlmr+UfOKt93mLV2nVn6kNg+FBg2
+Km0fHaSIQOOgXupsp3QM7QT/MOkw6sQnQjEAWRpoZMXZIciNbIpwMYoR/XEAyi39
+BETS9qCDmD9k1wCjGQVaqzT68S59jG+z7ZCkIPkK8iiRy4/lGh9Z8qqN2GSApUOo
+BERu5n5GFATV7ABhrH/IDPP0ia7LjVWf0uBXsispXJ62fa1YM5qnIM+nq7Q5Tjdu
+9udOmQ3nmx4O6ktP1tW5lEFCqhzrKFjKr+n8fqfid3FmDfjEa20=
+=k5Nk
 -----END PGP SIGNATURE-----
