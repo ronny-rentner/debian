@@ -1,19 +1,19 @@
 Origin: ronny-rentner
 Label: ronny-rentner
 Codename: forky
-Date: Tue, 24 Nov 2026 04:41:39 UTC
+Date: Tue, 24 Nov 2026 13:25:12 UTC
 Architectures: amd64
 Components: main
 Description: Debian packages for forky maintained by Ronny Rentner
 MD5Sum:
- 27bc8f3a6232f090e1d26013a0211e79 4476 main/binary-amd64/Packages
- 5afe20c7fdbe7ec1c6a817a41b69b84a 1847 main/binary-amd64/Packages.gz
+ 68f5d8039833c9308febba9932064522 4478 main/binary-amd64/Packages
+ 2ecd02c2880a47c369306b9bf180bc68 1847 main/binary-amd64/Packages.gz
  7339443df2fed52785b072c2e04777bf 141 main/binary-amd64/Release
 SHA1:
- 40f72d730a6a6eac7542e0da2dd77ceb2ccd90d7 4476 main/binary-amd64/Packages
- f0633713548a21b84d03741f01bfd5151f741aaa 1847 main/binary-amd64/Packages.gz
+ f29792c92ce9eb331ad9c26628e5b25ce1c9c2c6 4478 main/binary-amd64/Packages
+ d2b4dc08af279e5ac91eb0da065e2d35a448dfb8 1847 main/binary-amd64/Packages.gz
  6156ee2a4d05a9917f12e2cd644a62ec57e22ea9 141 main/binary-amd64/Release
 SHA256:
- 3fb21bdbfa5f66db3fbd86e4641112b1741d46b8e0755335207e1826e096c26e 4476 main/binary-amd64/Packages
- 0647908b0382d477d40566fb8f867df05462fcabecef575b763c4e936991a097 1847 main/binary-amd64/Packages.gz
+ 5fecf69dae7e40888559ffd875cb055dee322e3e34c310855b9406b028064d1f 4478 main/binary-amd64/Packages
+ 14389037d81a6fd850cf76c9896bffd956f7a54176bf34124ad554161f7ecb8c 1847 main/binary-amd64/Packages.gz
  35cd2714f1a2c012ef0c09b04ec50256551b1a1decef1fbce545ca96237782b5 141 main/binary-amd64/Release

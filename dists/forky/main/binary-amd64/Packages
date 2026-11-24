@@ -1,18 +1,18 @@
 Package: ghostty
-Version: 1.4.0-9
+Version: 1.4.0-10
 Architecture: amd64
 Maintainer: Ronny Rentner <debian@ronny-rentner.de>
-Installed-Size: 38298
+Installed-Size: 38300
 Depends: libadwaita-1-0 (>= 1.5~beta), libc6 (>= 2.43), libegl1, libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.9.1), libglib2.0-0t64 (>= 2.76.0), libgtk-4-1 (>= 4.21.5), libgtk4-layer-shell0 (>= 1.0.2), libharfbuzz0b (>= 0.9.42), libhwy1t64 (>= 1.0.0), libonig5 (>= 6.9.5), libsimdutf35 (>= 9.3.0+really9.1.2), libspirv-cross-c-shared0 (>= 2021.01.15+1.4.357.0), libstdc++6 (>= 11), libwayland-client0 (>= 1.9.91), libx11-6
 Provides: x-terminal-emulator
 Homepage: https://ghostty.org/
 Priority: optional
 Section: utils
-Filename: pool/main/g/ghostty/ghostty_1.4.0-9_amd64.deb
-Size: 19085836
-SHA256: bd8e827cb97ea3ce1aca1c3b58d3acfbfa5304369f25de5679945f72cdc3a357
-SHA1: a40986e7a528540b5575324c87eb7b94c99fcef8
-MD5sum: 65b65254680038fefe9a9f56dfe5d197
+Filename: pool/main/g/ghostty/ghostty_1.4.0-10_amd64.deb
+Size: 19087820
+SHA256: eb46b9c55323ccbc9a9c5328d8f9f0f9719261f95d310b58ff3a24bb89c02d8a
+SHA1: 3832da971dcfc01fe7f5c3eadaf2bc2ca4bfc0f0
+MD5sum: 503671df2b690cbeeaeb81403f11dbd1
 Description: Fast, feature-rich, and cross-platform terminal emulator
  Ghostty is a terminal emulator that differentiates itself by being fast,
  feature-rich, and native. While there are many excellent terminal emulators
