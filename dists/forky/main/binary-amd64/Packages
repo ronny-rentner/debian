@@ -1,5 +1,5 @@
 Package: ghostty
-Version: 1.4.0-12
+Version: 1.4.0-13
 Architecture: amd64
 Maintainer: Ronny Rentner <debian@ronny-rentner.de>
 Installed-Size: 38300
@@ -8,11 +8,11 @@ Provides: x-terminal-emulator
 Homepage: https://ghostty.org/
 Priority: optional
 Section: utils
-Filename: pool/main/g/ghostty/ghostty_1.4.0-12_amd64.deb
-Size: 19088156
-SHA256: 15c7933373b44d5f645e805f6a62528d34adc4a52b394ac45db654f300a16b5d
-SHA1: f6eb93d9afc0c517ed8359e23ee7c3ebc7bbbb6e
-MD5sum: c67a664a9bae7edba1fbcb2d986df059
+Filename: pool/main/g/ghostty/ghostty_1.4.0-13_amd64.deb
+Size: 19089340
+SHA256: 7fb74a9a3e96d0faa4e953bd3b8d8a850496eabe06f4acaa4d0d7a9821ecc689
+SHA1: 45365864cb721ebd4c8f7aa56ba39b4f131039de
+MD5sum: 49e1576a4446dd593c89a1a09ceadfb8
 Description: Fast, feature-rich, and cross-platform terminal emulator
  Ghostty is a terminal emulator that differentiates itself by being fast,
  feature-rich, and native. While there are many excellent terminal emulators
